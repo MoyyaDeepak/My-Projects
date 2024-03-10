@@ -1,0 +1,1 @@
+In this ATM_Project we can add and withdraw amount to checking account and savings account. There are multiple options in checking account and savings account like "1. view balance, 2. Deposit amount, 3. Withdraw amount".
