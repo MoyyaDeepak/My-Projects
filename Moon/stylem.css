@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;500&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Serif';
+}
+section{
+    background-image: url("images/moon.jpg");
+    min-height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.content{
+    width: 95%;
+    margin: auto;
+}
+nav{
+    height: 80px;
+}
+nav h1{
+    float: center;
+    line-height: 70px;
+    font-size: 80px;
+    font-size: inline;
+    color: rgb(247, 177, 252);
+    padding-top: 80px;
+    text-align: center;
+    font-weight:  bold;
+}
+nav p{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 60;
+    text-align: center;
+    font-size: 25px;
+    color: white;
+    margin-right: 20px;
+    line-height: 1.5;
+    margin-bottom: 50px;
+    padding-top: 80px;
+}
